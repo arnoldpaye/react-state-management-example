@@ -6,7 +6,6 @@ import './App.css';
 const App = () => {
   return (
     <RecoilRoot>
-      <DisplayCount />
       <h1>State Management Example</h1>
       <CounterButton />
     </RecoilRoot>
