@@ -1,6 +1,5 @@
 import { RecoilRoot } from 'recoil';
 import { CounterButton } from './CounterButton';
-import { DisplayCount } from './DisplayCount';
 import './App.css';
 
 const App = () => {
