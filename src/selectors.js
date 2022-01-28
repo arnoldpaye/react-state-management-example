@@ -1,1 +1,1 @@
-export const numberOfClicks = state => state.numberOfClicks;
+export const getNumberOfClicks = state => state.numberOfClicks;
